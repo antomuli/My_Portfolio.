@@ -1,28 +1,29 @@
-nav{
+*{
+  text-align: center;
+  
+}
+#container{
+  align-items: center;
+}
+ nav{
   position: sticky;
-  background-image: url(images/Background\ img.jpeg);
-  background-size: contain;
+  background-image: url(images/Background\ img.jpeg); 
+  background-size: 100%; 
+  background-position: top;
+  background-repeat: round;
   padding: 10px 10px 5px 5px;
   z-index: 1;
   width: 100%;
-  height: 600px;
-  
+  height: 600px; 
 }
-
-
 nav ul{
   text-align: right;
-  float: left;
 }
-
-
 nav ul li{
   list-style: none;
   display: inline-block;
   margin-right: 5%;
 }
-
-
 nav ul li a{
   text-transform: uppercase;
   color: coral;
@@ -35,4 +36,15 @@ nav ul li a:hover{
   background-color: darkgoldenrod;
   border: 2px solid black;
   box-shadow: rgb(45,50,85);
-};
+}; 
+#about{
+ 
+}
+.history ul{
+  list-style-type: none;
+  text-decoration: none;
+}
+#skills ol{
+  list-style-type: none;
+  text-decoration: none;
+}
