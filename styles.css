@@ -1,6 +1,7 @@
 nav{
   position: sticky;
   background-image: url(images/Background\ img.jpeg);
+  background-size: contain;
   padding: 10px 10px 5px 5px;
   z-index: 1;
   width: 100%;
