@@ -4,6 +4,12 @@
  Anthony Muli
  ### Description of the project
  Behind every **visage** there is always a story.
+
+ *Technologies used include: 
+
+                             1.html.5
+
+                             2.CSS
  #### Project Set-up instructions
  1.Open the *terminal* in your computer.
 
