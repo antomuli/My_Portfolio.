@@ -1,5 +1,5 @@
  # Project Name
- Anto' Portfolio
+ Anto's Portfolio
  ## Author Name
  Anthony Muli
  ### Description of the project
