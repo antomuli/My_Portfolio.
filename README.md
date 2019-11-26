@@ -23,7 +23,7 @@
 
  5.*Copy Path* the index.html and paste it in the browser to check what it holds.
 
- 6.The alternative way is to git clone my project after searching for the username **antomuli**
+ 6.The alternative way is to git clone my project after searching for the username **antomuli** on github.
  ##### Live link to My-Portfolio
  The following is the live link to my-portfolio:
  *https://antomuli.github.io/My_Portfolio./*
