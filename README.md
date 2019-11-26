@@ -10,6 +10,8 @@
                              1.html.5
 
                              2.CSS
+
+                             3.Bootstrap
  #### Project Set-up instructions
  1.Open the *terminal* in your computer.
 
@@ -20,13 +22,15 @@
  4.Type *code .* to view the codes used in the Portfolio.
 
  5.*Copy Path* the index.html and paste it in the browser to check what it holds.
+
+ 6.The alternative way is to git clone my project after searching for the username **antomuli**
  ##### Live link to My-Portfolio
  The following is the live link to my-portfolio:
  *https://antomuli.github.io/My_Portfolio./*
 ###### Copy Right and License info.
  MIT License
 
-Copyright (c) 2019 Moringa School
+Copyright (c) 2019 Moringa School-*Anto*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

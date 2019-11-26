@@ -15,7 +15,7 @@
 }
 
 nav {
-  position: sticky;
+  position: fixed;
   background-image: url(images/Background\ img.jpeg);
   background-size: 100%;
   background-position: top;
@@ -49,13 +49,13 @@ nav ul li a:hover {
   box-shadow: rgb(45, 50, 85);
 }
 
-.text {
+/* .text {
   text-align: center;
   margin-top: 18%;
   font-size: 40px;
-  color: gainsboro;
+  color: none;
   width: 100%;
-}
+} */
 
 a {
   color: brown;
